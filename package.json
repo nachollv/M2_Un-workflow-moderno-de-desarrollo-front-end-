@@ -23,6 +23,7 @@
   "author": "Ignacio Lladó Vidal",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^10.4.2"
+    "autoprefixer": "^10.4.2",
+    "gh": "^2.8.9"
   }
 }
